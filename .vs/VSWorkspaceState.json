@@ -1,9 +1,17 @@
 {
   "ExpandedNodes": [
     "",
+<<<<<<< HEAD
     "\\Mix",
     "\\Mix\\FirstBoot"
   ],
   "SelectedNode": "\\Mix\\FirstBoot\\afnasos_loader.asm",
+=======
+    "\\C",
+    "\\Mix",
+    "\\Mix\\FirstBoot"
+  ],
+  "SelectedNode": "\\Mix\\FirstBoot\\bos_rooms.asm",
+>>>>>>> fb2f5fe510005cf96409412e78c1139db4c82f2b
   "PreviewInSolutionExplorer": false
 }
